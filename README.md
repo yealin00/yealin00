@@ -1,18 +1,62 @@
-프로필 수정 테스트...
 
-![헤더이미지](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=공부하는%20예린입니다)
+<!-- 헤더 -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&text=Frontend%20Developer%20Yealin&fontColor=ffffff&fontSize=38)
 
+<!-- 로고 -->
+![YealinUI Logo](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_logo.png)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yealin})](https://solved.ac/{yealin})
+<!-- 배너 -->
+![YealinUI Banner](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_banner.png)
 
-[![Hits](https://hits.sh/github.com/yealin00.svg?view=today-total&style=for-the-badge)](https://hits.sh/github.com/yealin00/)
+---
 
-### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white) 
+### 🌸 About Me  
+안녕하세요 🌸  
+부드럽고 감성적인 UI로 따뜻한 **웹**을 만드는 프론트엔드 개발자, **예린**입니다.  
+“Soft code, pastel mind.”를 모토로 꾸준히 성장하고 있어요 💕
 
-**🛠️ Infra and Tools**
+---
 
-### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yealin00&layout=)
+### 🧁 Skills
+
+**🧑‍💻 Languages & Frameworks**  
+![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF9AC1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCDDEC?style=for-the-badge&logo=javascript&logoColor=gray)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F7E1EA?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-F5C9D2?style=for-the-badge&logo=react&logoColor=white)
+
+**🎨 Tools**  
+![Figma](https://img.shields.io/badge/Figma-FFACC7?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FCDDEC?style=for-the-badge&logo=github&logoColor=gray)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-FFD1DC?style=for-the-badge&logo=sourcetree&logoColor=white)
+
+---
+
+### 🎀 Projects
+
+| Name | Preview | Description | Link |
+|------|----------|--------------|------|
+| 💐 **Pastel Portfolio** | ![Pastel Portfolio](https://raw.githubusercontent.com/yealin00/yealin00/main/pastel_portfolio.png) | 감성적인 색감으로 디자인된 반응형 포트폴리오 사이트 💻 | [보기](https://yealin00.github.io/pastel-portfolio) |
+| 🧁 **Sweet Landing Page** | ![Sweet Landing](https://raw.githubusercontent.com/yealin00/yealin00/main/sweet_landing.png) | Tailwind 기반 디저트 브랜드 랜딩 페이지 🍰 | [보기](https://yealin00.github.io/sweet-landing) |
+| 🌷 **YealinUI Components** | ![YealinUI Components](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_components.png) | 재사용 가능한 React UI 컴포넌트 모음 ✨ | [보기](https://github.com/yealin00/yealinui-components) |
+
+---
+
+### ☁️ Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yealin00&layout=compact&title_color=ff9ac1&text_color=6f6f7a&bg_color=ffffff&border_color=f5d9e2&border_radius=12)
+
+---
+
+### 📫 Contact  
+📧 **yealin.dev@gmail.com**  
+🌐 [github.com/yealin00](https://github.com/yealin00)
+
+---
+
+🌸 “코드는 차분하게, 감성은 예쁘게.” 🌸  
+© 2025 **YealinUI**
+
+<!-- 하단 장식 -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer)
