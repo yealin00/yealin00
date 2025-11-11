@@ -5,9 +5,6 @@
 <!-- 로고 -->
 ![YealinUI Logo](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_logo.png)
 
-<!-- 배너 -->
-![YealinUI Banner](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_banner.png)
-
 ---
 
 ### 🌸 About Me  
