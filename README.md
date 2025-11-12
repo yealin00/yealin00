@@ -10,7 +10,7 @@
 ### 🌸 About Me  
 안녕하세요 🌸  
 부드럽고 감성적인 UI로 따뜻한 **웹**을 만드는 프론트엔드 개발자, **예린**입니다.  
-“Soft code, pastel mind.”를 모토로 꾸준히 성장하고 있어요 💕
+“"Live to learn, day by day.".”를 모토로 꾸준히 성장하고 있어요 💕
 
 ---
 
@@ -40,6 +40,17 @@
 
 ---
 
+### 📔 Today I Learned (TIL)
+> 하루하루의 배움을 기록하는 예린이의 성장 일기장 🌱  
+
+| 날짜 | 주제 | 링크 |
+|------|------|------|
+| 2025-11-12 | GitHub에서 첫 TIL 작성하기 🌼 | [보러가기](./TIL/2025-11-12.md) |
+
+> ✨ Keep learning, keep growing ✨  
+
+---
+
 ### ☁️ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yealin00&layout=compact&title_color=ff9ac1&text_color=6f6f7a&bg_color=ffffff&border_color=f5d9e2&border_radius=12)
@@ -52,7 +63,7 @@
 
 ---
 
-🌸 “코드는 차분하게, 감성은 예쁘게.” 🌸  
+🌸 “"Learn a little every day.".” 🌸  
 © 2025 **YealinUI**
 
 <!-- 하단 장식 -->
