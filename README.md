@@ -1,13 +1,15 @@
-
 <!-- 헤더 -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&text=Frontend%20Developer%20Yealin&fontColor=ffffff&fontSize=38)
 
 <!-- 로고 -->
+
 ![YealinUI Logo](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_logo.png)
 
 ---
 
-### 🌸 About Me  
+### 🌸 About Me
+
 안녕하세요 🌸  
 부드럽고 감성적인 UI로 따뜻한 **웹**을 만드는 프론트엔드 개발자, **예린**입니다.  
 “Live to learn, day by day.”를 모토로 꾸준히 성장하고 있어요 💕
@@ -32,28 +34,31 @@
 
 ### 🎀 Projects
 
-| Name | Preview | Description | Link |
-|------|----------|--------------|------|
-| 💐 **Pastel Portfolio** | ![Pastel Portfolio](https://raw.githubusercontent.com/yealin00/yealin00/main/pastel_portfolio.png) | 감성적인 색감으로 디자인된 반응형 포트폴리오 사이트 💻 | [보기](https://yealin00.github.io/pastel-portfolio) |
-| 🧁 **Sweet Landing Page** | ![Sweet Landing](https://raw.githubusercontent.com/yealin00/yealin00/main/sweet_landing.png) | Tailwind 기반 디저트 브랜드 랜딩 페이지 🍰 | [보기](https://yealin00.github.io/sweet-landing) |
-| 🌷 **YealinUI Components** | ![YealinUI Components](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_components.png) | 재사용 가능한 React UI 컴포넌트 모음 ✨ | [보기](https://github.com/yealin00/yealinui-components) |
+| Name                       | Preview                                                                                                  | Description                                            | Link                                                    |
+| -------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- |
+| 💐 **Pastel Portfolio**    | ![Pastel Portfolio](https://raw.githubusercontent.com/yealin00/yealin00/main/pastel_portfolio.png)       | 감성적인 색감으로 디자인된 반응형 포트폴리오 사이트 💻 | [보기](https://yealin00.github.io/pastel-portfolio)     |
+| 🧁 **Sweet Landing Page**  | ![Sweet Landing](https://raw.githubusercontent.com/yealin00/yealin00/main/sweet_landing.png)             | Tailwind 기반 디저트 브랜드 랜딩 페이지 🍰             | [보기](https://yealin00.github.io/sweet-landing)        |
+| 🌷 **YealinUI Components** | ![YealinUI Components](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_components.png) | 재사용 가능한 React UI 컴포넌트 모음 ✨                | [보기](https://github.com/yealin00/yealinui-components) |
 
 ---
 
 ### 📔 Today I Learned (TIL)
-> 하루하루의 배움을 기록하는 예린이의 성장 일기장 🌱  
 
-| 날짜 | 주제 | 링크 |
-|------|------|------|
-| 2025-11-12 | GitHub에서 첫 TIL 작성하기 🌼 | [보러가기](./TIL/2025-11-12.md) |
-| 2025-11-13 | 복습이 절실히 필요한 날 🌻 | [보러가기](./TIL/2025-11-13.md) |
-| 2025-11-14 | 작은 성장의 기록 🌷 | [보러가기](./TIL/2025-11-14.md) |
-| 2025-11-17 | 코드로 쌓아 올린 하루 🍀| [보러가기](./TIL/2025-11-17.md) |
-| 2025-11-18 | 한 걸음 더 나아간 날 🎀| [보러가기](./TIL/2025-11-18.md) |
-| 2025-11-19 | 파일 대탈출과 성장의 하루 🌱| [보러가기](./TIL/2025-11-19.md) |
-| 2025-11-20 | 손가락 이미지랑 씨름한 하루 🫰| [보러가기](./TIL/2025-11-20.md) |
-| 2025-11-21 | 1만 시간 포스터 완성도 높이기 프로젝트 💛| [보러가기](./TIL/2025-11-21.md) |
-> ✨ Keep learning, keep growing ✨  
+> 하루하루의 배움을 기록하는 예린이의 성장 일기장 🌱
+
+| 날짜       | 주제                                      | 링크                            |
+| ---------- | ----------------------------------------- | ------------------------------- |
+| 2025-11-12 | GitHub에서 첫 TIL 작성하기 🌼             | [보러가기](./TIL/2025-11-12.md) |
+| 2025-11-13 | 복습이 절실히 필요한 날 🌻                | [보러가기](./TIL/2025-11-13.md) |
+| 2025-11-14 | 작은 성장의 기록 🌷                       | [보러가기](./TIL/2025-11-14.md) |
+| 2025-11-17 | 코드로 쌓아 올린 하루 🍀                  | [보러가기](./TIL/2025-11-17.md) |
+| 2025-11-18 | 한 걸음 더 나아간 날 🎀                   | [보러가기](./TIL/2025-11-18.md) |
+| 2025-11-19 | 파일 대탈출과 성장의 하루 🌱              | [보러가기](./TIL/2025-11-19.md) |
+| 2025-11-20 | 손가락 이미지랑 씨름한 하루 🫰            | [보러가기](./TIL/2025-11-20.md) |
+| 2025-11-21 | 1만 시간 포스터 완성도 높이기 프로젝트 💛 | [보러가기](./TIL/2025-11-21.md) |
+| 2025-11-24 | 저승사자와 하이파이브하기 일보적전 🐣     | [보러가기](./TIL/2025-11-24.md) |
+
+> ✨ Keep learning, keep growing ✨
 
 ---
 
@@ -63,7 +68,8 @@
 
 ---
 
-### 📫 Contact  
+### 📫 Contact
+
 🌐**jgy13008@gmail.com**  
 🌐 [github.com/yealin00](https://github.com/yealin00)
 
@@ -73,4 +79,5 @@
 © 2025 **YealinUI**
 
 <!-- 하단 장식 -->
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer)
