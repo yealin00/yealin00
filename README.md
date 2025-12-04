@@ -33,8 +33,8 @@
 | ----------------------------- | --------------------------- | ---------------------------------------- | ---- |
 | HTML/CSS Layout & Styling     | 📚 **New Book Promo Page**  | 신간 도서를 소개하는 랜딩 페이지.         | (URL 넣기) |
 | HTML/CSS Interactive UI       | 🎵 **Music Playlist Page**  | 플레이리스트 UI를 구현한 HTML/CSS 페이지. | (URL 넣기) |
-| HTML/CSS Landing Page         | 🐱 **Zadu Cat Landing Page** | Zadu 고양이를 주제로 만든 HTML/CSS 랜딩 페이지. | (URL 넣기) |
-| Responsive Design Practice    | ⏰ **10,000 Hours Poster**  | 1만 시간의 법칙을 테마로 한 반응형 포스터 페이지. | (URL 넣기) |
+| HTML/CSS Landing Page         | 🐱 **Zadu Cat Landing Page** | Zadu 고양이를 주제로 만든 HTML/CSS 랜딩 페이지. | (https://github.com/yealin00/zadu_project.git) |
+| Responsive Design Practice    | ⏰ **10,000 Hours Poster**  | 1만 시간의 법칙을 테마로 한 반응형 포스터 페이지. | (https://github.com/yealin00/10000hours.git) |
 
 ---
 
