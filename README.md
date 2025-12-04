@@ -83,7 +83,7 @@
 
 ---
 
-🌸 “"Learn a little every day.".” 🌸  
+🌸 "Learn a little every day." 🌸  
 © 2025 **YealinUI**
 
 <!-- 하단 장식 -->
