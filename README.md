@@ -2,10 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&text=Frontend%20Developer%20Yealin&fontColor=ffffff&fontSize=38)
 
-<!-- 로고 -->
-
-![YealinUI Logo](https://raw.githubusercontent.com/yealin00/yealin00/main/yealinui_logo.png)
-
 ---
 
 ### 🌸 About Me
