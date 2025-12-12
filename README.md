@@ -72,6 +72,11 @@
 
 ---
 
+### 🧩 Coding Test Logs
+
+![Programmers Badge](https://raw.githubusercontent.com/yealin00/Programmers_Badge_Generator/main/result/result.svg)
+
+
 ### ☁️ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yealin00&layout=compact&title_color=ff9ac1&text_color=6f6f7a&bg_color=ffffff&border_color=f5d9e2&border_radius=12)
