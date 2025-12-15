@@ -67,6 +67,7 @@
 | 2025-12-10 | 오늘도 JS에게 얻어맞은 날.zip 🍒            | [보러가기](./TIL/2025-12-10.md) |
 | 2025-12-11 | 마음은 복잡해도 코드는 계속 된다.zip 🍓     | [보러가기](./TIL/2025-12-11.md) |
 | 2025-12-12 | 즐거운 스터디 코딩테스트 🧸                 | [보러가기](./TIL/2025-12-12.md) |
+| 2025-12-12 | JS한테 혼쭐났던 날 🌳                      | [보러가기](./TIL/2025-12-12.md) |
 
 > ✨ Keep learning, keep growing ✨
 
@@ -79,7 +80,8 @@
 
 ### ☁️ Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yealin00&layout=compact&title_color=ff9ac1&text_color=6f6f7a&bg_color=ffffff&border_color=f5d9e2&border_radius=12)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yealin00&layout=compact&title_color=ff9ac1&text_color=6f6f7a&bg_color=ffffff&border_color=f5d9e2&border_radius=12
+)
 
 ---
 
